@@ -26,6 +26,25 @@
 
 ---
 
+## 🏗️ What We're Building
+
+Beyond our open-source tools, IARTY is actively developing a full digital ecosystem. Most of these projects live in private repositories — here's a snapshot of what we work on:
+
+| Area | What it is | Highlights |
+|------|-----------|------------|
+| 🏢 **IARTY Platform** | Core company website & digital ecosystem | Product catalog, services, portfolio, education pages, admin dashboard (content, courses, transactions, users & roles) |
+| 🤖 **IARTY AI** | AI-powered services platform | Cloud AI features, model routing, credit accounting, and a desktop client with local model support |
+| 🛒 **IARTY Marketplace** | AI marketplace for buyers & sellers | Seller storefronts, product management, and automated payments via Midtrans |
+| 🎓 **IARTY Education** | Digital learning platform | Online courses and educational content delivery |
+| 📈 **IARTY Investing** | Digital investment platform | Investment information, simulations, and financial services |
+| 🎁 **GiftHub** | Digital gifting template hub | Romantic pages, invitations, cafe & portfolio templates with real-time editing and ZIP export |
+| 🎨 **CShop Templates** | E-commerce website templates | Six themed templates (glassmorphism, cyberpunk, retro, space, neumorphism, Surabaya) |
+| ☕ **Client Websites** | Tailored business websites | Cafe & restaurant sites, florist, coworking space, AC services, and more |
+
+> 💡 Interested in what we do or want to collaborate? Reach out at **[hello@iarty.id](mailto:hello@iarty.id)**.
+
+---
+
 ## 🧰 Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
