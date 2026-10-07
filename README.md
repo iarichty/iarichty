@@ -5,42 +5,37 @@
 # Hi, I'm IARTY 👋
 
 [![Website](https://img.shields.io/badge/Website-iarty.id-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iarty.id)
-[![Location](https://img.shields.io/badge/Indonesia-Surabaya-0f172a?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Technology Information Company** — kami membangun solusi digital: web platform, aplikasi AI, marketplace, sistem bisnis, dan website untuk berbagai klien.
+**Technology Information Company** — We build digital solutions: web platforms, AI applications, marketplaces, business systems, and tailored websites.
 
 </div>
 
 ---
 
-## 🚀 Highlight Projects
+## 🚀 Featured Projects
 
-### 🏢 IARTY Platform
-- [**iarty**](https://github.com/iarichty/iarty) — IARTY Core Platform, ekosistem digital utama
-- [**iarty.ai**](https://github.com/iarichty/iarty.ai) — Platform kecerdasan buatan IARTY
-- [**backend.iarty**](https://github.com/iarichty/backend.iarty) — Backend API layanan utama
-- [**backend.iarty.ai**](https://github.com/iarichty/backend.iarty.ai) — Backend API IARTY AI
+### 📊 IARTY Tools — Privacy-First Analytics
+- [**iarty-analytics**](https://github.com/iarichty/iarty-analytics) — Social media analytics for Instagram & TikTok. All processing runs 100% client-side in the browser; no personal data is ever stored or sent to a server.
 
-### 🛒 Marketplace
-- [**frontend-marketplace**](https://github.com/iarichty/frontend-marketplace) — Frontend marketplace
-- [**backend-iarty-marketplace**](https://github.com/iarichty/backend-iarty-marketplace) — Backend marketplace
-- [**gifthub**](https://github.com/iarichty/gifthub) — Platform gifting & hadiah digital
+### 🖥️ IARTY AI Desktop
+- [**iarty-ai-desktop**](https://github.com/iarichty/iarty-ai-desktop) — Electron desktop client that pairs cloud AI features with your own local models (Ollama / LM Studio / vLLM) for private, free, and heavy workloads.
 
-### 🤖 AI & Data
-- [**iarty-ai-desktop**](https://github.com/iarichty/iarty-ai-desktop) — Aplikasi desktop IARTY AI
-- [**iarty-analytics**](https://github.com/iarichty/iarty-analytics) — Dashboard & platform analitik
+---
 
-### 📦 Products
-- [**iarty.education**](https://github.com/iarichty/iarty.education) — Platform edukasi digital
-- [**iarty.investing**](https://github.com/iarichty/iarty.investing) — Platform investasi digital
-- [**rsvp-princess**](https://github.com/iarichty/rsvp-princess) — Platform undangan & RSVP online
+## 🧰 Tech Stack
 
-### 🎨 Templates
-- [**glassmorphism**](https://github.com/iarichty/template-cshop-glassmorpishm) · [**cyberpunk**](https://github.com/iarichty/template-cshop-cyberpunk) · [**retro**](https://github.com/iarichty/template-cshop-retro) · [**space**](https://github.com/iarichty/template-cshop-space) · [**neumorphism**](https://github.com/iarichty/template-cshop-neumorpishm) · [**surabaya**](https://github.com/iarichty/template-cshop-surabaya)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 
 ---
 
