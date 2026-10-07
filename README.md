@@ -69,6 +69,26 @@ Beyond our open-source tools, IARTY is actively developing a full digital ecosys
 
 ---
 
+## 👨💻 Developed by
+
+<div align="center">
+
+<a href="https://github.com/FIQTOR">
+  <img src="https://avatars.githubusercontent.com/u/117913964?v=4" width="110" alt="FIQTOR" />
+</a>
+
+### [FIQTOR](https://github.com/FIQTOR)
+
+**Founder & Lead Developer**
+AI Engineer · Founder of IARTY
+
+[![GitHub](https://img.shields.io/badge/GitHub-FIQTOR-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FIQTOR)
+[![Website](https://img.shields.io/badge/Website-fiqtor.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fiqtor.com)
+
+</div>
+
+---
+
 ## 📫 Contact
 
 - 🌐 Website: [**iarty.biz.id**](https://iarty.biz.id)
