@@ -10,7 +10,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**PT IARTY TEKNOLOGI DIGITAL** — Technology Information Company. We build digital solutions: web platforms, AI applications, marketplaces, business systems, and tailored websites.
+**IARTY — Technology Information Company.** We build digital solutions: web platforms, AI applications, marketplaces, business systems, and tailored websites.
 
 </div>
 
