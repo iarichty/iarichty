@@ -4,13 +4,13 @@
 
 # Hi, I'm IARTY 👋
 
-[![Website](https://img.shields.io/badge/Website-iarty.id-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iarty.id)
+[![Website](https://img.shields.io/badge/Website-iarty.biz.id-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://iarty.biz.id)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**Technology Information Company** — We build digital solutions: web platforms, AI applications, marketplaces, business systems, and tailored websites.
+**PT IARTY TEKNOLOGI DIGITAL** — Technology Information Company. We build digital solutions: web platforms, AI applications, marketplaces, business systems, and tailored websites.
 
 </div>
 
@@ -41,7 +41,7 @@ Beyond our open-source tools, IARTY is actively developing a full digital ecosys
 | 🎨 **CShop Templates** | E-commerce website templates | Six themed templates (glassmorphism, cyberpunk, retro, space, neumorphism, Surabaya) |
 | ☕ **Client Websites** | Tailored business websites | Cafe & restaurant sites, florist, coworking space, AC services, and more |
 
-> 💡 Interested in what we do or want to collaborate? Reach out at **[hello@iarty.id](mailto:hello@iarty.id)**.
+> 💡 Interested in what we do or want to collaborate? Reach out at **[business@iarty.biz.id](mailto:business@iarty.biz.id)**.
 
 ---
 
@@ -71,9 +71,9 @@ Beyond our open-source tools, IARTY is actively developing a full digital ecosys
 
 ## 📫 Contact
 
-- 🌐 Website: [**iarty.id**](https://iarty.id)
-- 📧 Email: [**hello@iarty.id**](mailto:hello@iarty.id)
+- 🌐 Website: [**iarty.biz.id**](https://iarty.biz.id)
+- 📧 Email: [**business@iarty.biz.id**](mailto:business@iarty.biz.id)
 
 <div align="center">
-<sub>© IARTY — Technology Information Company</sub>
+<sub>© PT IARTY TEKNOLOGI DIGITAL — Technology Information Company</sub>
 </div>
