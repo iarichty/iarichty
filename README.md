@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/iarichty/iarty/raw/main/public/og-image.jpg" alt="IARTY — Technology Information Company" width="100%" />
+<img src="https://raw.githubusercontent.com/iarichty/iarty-analytics/master/public/og-image.jpg" alt="IARTY — Technology Information Company" width="100%" />
 
 # Hi, I'm IARTY 👋
 
